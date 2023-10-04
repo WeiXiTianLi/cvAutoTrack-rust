@@ -1,1 +1,7 @@
 /target
+
+# Node.js
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+node_modules/
